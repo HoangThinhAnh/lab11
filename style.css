@@ -1,0 +1,57 @@
+table{
+    width: 80%;
+    line-height: 40px;
+    border-color: greenyellow;
+}
+
+td:first-child{
+    width: 100px;
+}
+
+td:last-child{
+    width: 100px;
+}
+
+th:first-child{
+    background-color: green;
+}
+tr:first-child{
+     background-color: green;
+}
+
+tr:nth-child(2){
+    background-color: lightgreen;
+}
+
+.dong1{
+    color: aliceblue;
+}
+
+.dong2{
+    text-align: center;
+}
+
+.dong3{
+    text-align: center;
+}
+
+
+.dong4{
+    text-align: center;
+}
+
+.dong5{
+    text-align: center;
+}
+
+.dong6{
+    text-align: center;
+}
+
+.Vietnam{
+    color: red;
+}
+
+.Sports{
+    color: red;
+}

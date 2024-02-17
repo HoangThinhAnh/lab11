@@ -1,0 +1,18 @@
+table {
+    width: 80%;
+    line-height: 40px;
+    border: 1px solid blue;
+}
+
+.bang{
+    text-align: center;
+}
+
+th{
+    background-color: rgb(34, 93, 188);
+    color: aliceblue;
+}
+
+tr:nth-child(2n+1){
+    background-color: gainsboro;
+}
